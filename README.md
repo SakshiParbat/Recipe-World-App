@@ -1,16 +1,87 @@
-# React + Vite
+# React Recipe App 🍽️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive recipe application built using React.js. The platform allows users to browse, search, and explore various recipes through an intuitive and user-friendly interface. The project demonstrates component-based architecture, state management, and dynamic rendering in React.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Browse Recipe Collection
+* Search Recipes
+* Recipe Details View
+* Responsive Design
+* Dynamic Content Rendering
+* Reusable React Components
+* Interactive User Experience
 
-## React Compiler
+## 🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React.js
+* JavaScript (ES6)
+* HTML5
+* CSS3
+* Vite
 
-## Expanding the ESLint configuration
+## 📂 Project Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+React-Recipe-App/
+├── public/
+├── src/
+│ ├── components/
+│ ├── pages/
+│ ├── assets/
+│ └── App.jsx
+├── package.json
+└── vite.config.js
+
+## 🎯 Learning Outcomes
+
+* React Component Architecture
+* State Management
+* Props Handling
+* Conditional Rendering
+* Event Handling
+* Responsive UI Development
+
+## ▶️ Installation & Setup
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/React-Recipe-App.git
+```
+
+2. Install dependencies
+
+```bash
+npm install
+```
+
+3. Start development server
+
+```bash
+npm run dev
+```
+
+4. Open the application in your browser.
+
+<img width="1347" height="552" alt="image" src="https://github.com/user-attachments/assets/5286a2d4-005a-4621-8fb5-477213cccceb" />
+
+
+Add screenshots here.
+
+## 🔗 Live Demo
+
+Add deployed application link here.
+
+## 🌟 Future Enhancements
+
+* Recipe Categories
+* Favorites System
+* Advanced Search Filters
+* User Authentication
+* Recipe Ratings & Reviews
+
+## 👩‍💻 Author
+
+Sakshi Parbat
+
+Frontend Developer | React.js Developer
